@@ -1,3 +1,4 @@
+#
 #!/bin/bash
 
 start=`date +"%Y-%m-%d" -d "01/01/2018"`
